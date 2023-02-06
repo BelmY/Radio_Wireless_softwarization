@@ -25,13 +25,21 @@ Testbeds Catalogue provides an overview of existing testbeds with running deploy
 
 IEEE SDN Catalogue of Toolkits and Testbeds:
 
-* 5G-EmPOWER
+* 5G-EmPOWER: 5G-EmPOWER is an open Mobile Network Operating System for SDN&NFV research and experimentation in heterogeneous mobile networks. Its flexible architecture and the high-level programming APIs allow for fast prototyping of novel services and applications
+https://github.com/5g-empower/  http://5g-empower.io/
+
 * ARIA
-* CENTENNIAL
-* Control Orchestration Protocol (COP)
-* CORD
+* CENTENNIAL: SDN/OpenFlow Microwave PoC Applications. 
+https://github.com/OpenNetworkingFoundation/CENTENNIAL
+
+
+* Control Orchestration Protocol (COP) 
+* CORD: CORD™ (Central Office Re-architected as a Datacenter) combines NFV, SDN, and the elasticity of commodity clouds to bring datacenter economics and cloud agility to the Telco Central Office. CORD lets the operator manage their Central Offices using declarative modeling languages for agile, real-time configuration of new customer services. Major service providers like AT&T, SK Telecom, Verizon, China Unicom and NTT Communications are already supporting CORD.
+https://github.com/opencord
+
 * CORE
-* DELTA
+* DELTA: DELTA is a penetration testing framework that regenerates known attack scenarios for diverse test cases. This framework also provides the capability of discovering unknown security problems in SDN by employing a fuzzing technique.
+https://github.com/OpenNetworkingFoundation/DELTA 
 * DPDK
 * Durango
 * EAGLE
@@ -92,7 +100,7 @@ IEEE SDN Catalogue of Toolkits and Testbeds:
 * ONOS
 * Open5GCore
 * Open5GMTC
-* OpenAirInterface
+* OpenAirInterface: OpenAirInterfaceTM (OAI) wireless technology platform is a flexible platform towards an open LTE ecosystem that offers an open-source software-based implementation of the LTE system spanning the full protocol stack of 3GPP standard both in E-UTRAN and EPC. http://www.openairinterface.org  https://gitlab.eurecom.fr/oai/openairinterface5g
 * Open Baton
 * Open Compute Project (OCP)
 * OpenConfig
